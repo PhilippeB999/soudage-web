@@ -43,6 +43,8 @@ const COMPETENCIES = [
  {
   "id": "soud01",
   "order": 1,
+  "code": "304672",
+  "hours": 30,
   "title_fr": "Métier et formation",
   "title_en": "Trade and Training",
   "icon": "🧭",
@@ -241,6 +243,8 @@ const COMPETENCIES = [
  {
   "id": "soud02",
   "order": 2,
+  "code": "254992",
+  "hours": 30,
   "title_fr": "Santé et sécurité sur les chantiers de construction",
   "title_en": "Construction Site Health and Safety",
   "icon": "🦺",
@@ -439,6 +443,8 @@ const COMPETENCIES = [
  {
   "id": "soud03",
   "order": 3,
+  "code": "304687",
+  "hours": 105,
   "title_fr": "Soudage d'acier et d'acier inoxydable (GMAW) – positions à plat et horizontale",
   "title_en": "Steel and Stainless Steel Welding (GMAW) – Flat and Horizontal Positions",
   "icon": "🔥",
@@ -637,6 +643,8 @@ const COMPETENCIES = [
  {
   "id": "soud04",
   "order": 4,
+  "code": "304692",
+  "hours": 30,
   "title_fr": "Calculs liés au soudage et à l'assemblage",
   "title_en": "Welding and Assembly Calculations",
   "icon": "🧮",
@@ -835,6 +843,8 @@ const COMPETENCIES = [
  {
   "id": "soud05",
   "order": 5,
+  "code": "304703",
+  "hours": 45,
   "title_fr": "Coupage et préparation mécaniques",
   "title_en": "Mechanical Cutting and Preparation",
   "icon": "🪚",
@@ -1033,6 +1043,8 @@ const COMPETENCIES = [
  {
   "id": "soud06",
   "order": 6,
+  "code": "304716",
+  "hours": 90,
   "title_fr": "Plans d'assemblages simples et dessin de croquis",
   "title_en": "Simple Assembly Drawings and Sketching",
   "icon": "📐",
@@ -1231,6 +1243,8 @@ const COMPETENCIES = [
  {
   "id": "soud07",
   "order": 7,
+  "code": "304722",
+  "hours": 30,
   "title_fr": "Accès, levage et manutention",
   "title_en": "Access, Lifting and Handling",
   "icon": "🏗️",
@@ -1429,6 +1443,8 @@ const COMPETENCIES = [
  {
   "id": "soud08",
   "order": 8,
+  "code": "304733",
+  "hours": 45,
   "title_fr": "Coupage thermique",
   "title_en": "Thermal Cutting",
   "icon": "⚡",
@@ -1627,6 +1643,8 @@ const COMPETENCIES = [
  {
   "id": "soud09",
   "order": 9,
+  "code": "304746",
+  "hours": 90,
   "title_fr": "Soudage d'acier (FCAW) – positions à plat et horizontale",
   "title_en": "Steel Welding (FCAW) – Flat and Horizontal Positions",
   "icon": "💨",
@@ -1825,6 +1843,8 @@ const COMPETENCIES = [
  {
   "id": "soud10",
   "order": 10,
+  "code": "304754",
+  "hours": 60,
   "title_fr": "Pliage et cintrage",
   "title_en": "Bending and Rolling",
   "icon": "🌀",
@@ -2023,6 +2043,8 @@ const COMPETENCIES = [
  {
   "id": "soud11",
   "order": 11,
+  "code": "304765",
+  "hours": 75,
   "title_fr": "Soudage d'acier et d'acier inoxydable (GMAW) – positions verticale et au plafond",
   "title_en": "Steel and Stainless Steel Welding (GMAW) – Vertical and Overhead Positions",
   "icon": "🌋",
@@ -2221,6 +2243,8 @@ const COMPETENCIES = [
  {
   "id": "soud12",
   "order": 12,
+  "code": "304772",
+  "hours": 30,
   "title_fr": "Perçage et boulonnage",
   "title_en": "Drilling and Bolting",
   "icon": "🔩",
@@ -2419,6 +2443,8 @@ const COMPETENCIES = [
  {
   "id": "soud13",
   "order": 13,
+  "code": "304785",
+  "hours": 75,
   "title_fr": "Assemblages simples",
   "title_en": "Simple Assemblies",
   "icon": "🧩",
@@ -2617,6 +2643,8 @@ const COMPETENCIES = [
  {
   "id": "soud14",
   "order": 14,
+  "code": "304795",
+  "hours": 75,
   "title_fr": "Soudage d'acier et d'acier inoxydable (SMAW) – positions à plat et horizontale",
   "title_en": "Steel and Stainless Steel Welding (SMAW) – Flat and Horizontal Positions",
   "icon": "✨",
@@ -2815,6 +2843,8 @@ const COMPETENCIES = [
  {
   "id": "soud15",
   "order": 15,
+  "code": "304807",
+  "hours": 105,
   "title_fr": "Plans d'assemblages complexes",
   "title_en": "Complex Assembly Drawings",
   "icon": "📋",
@@ -3013,6 +3043,8 @@ const COMPETENCIES = [
  {
   "id": "soud16",
   "order": 16,
+  "code": "304817",
+  "hours": 105,
   "title_fr": "Assemblages de structures",
   "title_en": "Structural Assemblies",
   "icon": "🏢",
@@ -3211,6 +3243,8 @@ const COMPETENCIES = [
  {
   "id": "soud17",
   "order": 17,
+  "code": "304822",
+  "hours": 30,
   "title_fr": "Procédures de soudage et de coupage",
   "title_en": "Welding and Cutting Procedures",
   "icon": "📜",
@@ -3409,6 +3443,8 @@ const COMPETENCIES = [
  {
   "id": "soud18",
   "order": 18,
+  "code": "304833",
+  "hours": 45,
   "title_fr": "Soudage d'acier (FCAW) – positions verticale et au plafond",
   "title_en": "Steel Welding (FCAW) – Vertical and Overhead Positions",
   "icon": "🌪️",
@@ -3607,6 +3643,8 @@ const COMPETENCIES = [
  {
   "id": "soud19",
   "order": 19,
+  "code": "304845",
+  "hours": 75,
   "title_fr": "Soudage – systèmes automatisés et robotisés",
   "title_en": "Welding – Automated and Robotic Systems",
   "icon": "🤖",
@@ -3805,6 +3843,8 @@ const COMPETENCIES = [
  {
   "id": "soud20",
   "order": 20,
+  "code": "304858",
+  "hours": 120,
   "title_fr": "Assemblages de complexité moyenne",
   "title_en": "Medium-Complexity Assemblies",
   "icon": "🔗",
@@ -4003,6 +4043,8 @@ const COMPETENCIES = [
  {
   "id": "soud21",
   "order": 21,
+  "code": "304866",
+  "hours": 90,
   "title_fr": "Soudage d'acier et d'acier inoxydable (GTAW) – toutes positions",
   "title_en": "Steel and Stainless Steel Welding (GTAW) – All Positions",
   "icon": "💎",
@@ -4201,6 +4243,8 @@ const COMPETENCIES = [
  {
   "id": "soud22",
   "order": 22,
+  "code": "304875",
+  "hours": 75,
   "title_fr": "Soudage d'acier (SMAW) – positions verticale et au plafond",
   "title_en": "Steel Welding (SMAW) – Vertical and Overhead Positions",
   "icon": "🎇",
@@ -4399,6 +4443,8 @@ const COMPETENCIES = [
  {
   "id": "soud23",
   "order": 23,
+  "code": "304884",
+  "hours": 60,
   "title_fr": "Soudage d'aluminium (GMAW) – toutes positions",
   "title_en": "Aluminum Welding (GMAW) – All Positions",
   "icon": "⚙️",
@@ -4597,6 +4643,8 @@ const COMPETENCIES = [
  {
   "id": "soud24",
   "order": 24,
+  "code": "304894",
+  "hours": 60,
   "title_fr": "Soudage d'aluminium (GTAW) – toutes positions",
   "title_en": "Aluminum Welding (GTAW) – All Positions",
   "icon": "🛠️",
@@ -4795,6 +4843,8 @@ const COMPETENCIES = [
  {
   "id": "soud25",
   "order": 25,
+  "code": "304908",
+  "hours": 120,
   "title_fr": "Assemblages complexes",
   "title_en": "Complex Assemblies",
   "icon": "🌉",
@@ -4993,6 +5043,8 @@ const COMPETENCIES = [
  {
   "id": "soud26",
   "order": 26,
+  "code": "304911",
+  "hours": 15,
   "title_fr": "Cheminement professionnel",
   "title_en": "Career Path Planning",
   "icon": "📈",
@@ -5191,6 +5243,8 @@ const COMPETENCIES = [
  {
   "id": "soud27",
   "order": 27,
+  "code": "304926",
+  "hours": 90,
   "title_fr": "Intégration au milieu de travail",
   "title_en": "Workplace Integration",
   "icon": "🎓",
